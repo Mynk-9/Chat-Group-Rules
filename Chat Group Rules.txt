@@ -72,3 +72,10 @@ Rules:
 _______________________________________________________________________________
 _______________________________________________________________________________
 _______________________________________________________________________________
+
+Note:
+This file is under continuous updates.
+Please visit this link https://github.com/Mynk-9/Chat-Group-Rules for further 
+updates.
+This file is licensed by CC0, please see the license here:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode
